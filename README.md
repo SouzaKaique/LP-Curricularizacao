@@ -147,7 +147,7 @@ Depois acesse 👉 `http://localhost:8000`
 
 <div align="center">
 
-Feito com carinho e muitos commits pela equipe do minicurso
+ #### 💻Feito com carinho e muitos commits pela equipe do minicurso
 
 </div>
 
